@@ -1,0 +1,32 @@
+{
+  "name": "Mi lista Hydra",
+  "games": [
+    {
+      "title": "SuperTuxKart",
+      "downloads": [
+        {
+          "name": "Descarga oficial",
+          "url": "https://sourceforge.net/projects/supertuxkart/files/latest/download"
+        }
+      ]
+    },
+    {
+      "title": "0 A.D.",
+      "downloads": [
+        {
+          "name": "Descarga oficial",
+          "url": "https://play0ad.com/releases/0ad-0.27.0-win64.exe"
+        }
+      ]
+    },
+    {
+      "title": "Minetest",
+      "downloads": [
+        {
+          "name": "Descarga oficial",
+          "url": "https://www.minetest.net/downloads/"
+        }
+      ]
+    }
+  ]
+}
